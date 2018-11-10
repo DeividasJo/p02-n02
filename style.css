@@ -1,0 +1,28 @@
+body{
+    font-family: sans-serif;
+}
+.wrapper .left-side{
+    display: inline-block;
+    width: 79%;
+    margin-top: 5%;
+    }
+.wrapper .right-side{
+    display: inline-block;
+    width: 20%;
+    text-align: right;
+    vertical-align: top;
+    line-height: 2;
+    font-size: 25px;
+    margin-top: 5%;
+}
+.wrapper .right-side input{
+    height: 30px;
+    border-radius: 10px;
+    background: rgb(238, 188, 142);
+}
+.wrapper .left-side img{
+    width: 100%;
+}
+.wrapper .right-side ul{
+    list-style: none;
+}
